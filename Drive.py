@@ -417,4 +417,4 @@ async def on_app_command_error(interaction: discord.Interaction, error: app_comm
         await interaction.response.send_message("لا يمكنك استخدام هاذا الأمر ❌", ephemeral=True)
 
 # ⚠️ ضع التوكن السري الجديد المحمي لبوتك هنا بين علامتي التنصيص
-bot.run("MTU2NDg0MTk5MzIyMDI1OTkwMA.GG4YVQ.WaKn9xqCKB_xNGrEvSEaLcs6zBvJHQby6T2_X8")
+bot.run("MTU2NDg0MTk5MzIyMDI1OTkwMA.GlNsDB._AMWhn08YP46qtCLqrUYZQUI2oEHxPjvtc-pXA")
